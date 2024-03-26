@@ -1,0 +1,5 @@
+const EXPIRATION = {
+    EXPIRATION_BEARER:1,
+    EXPIRATION_REFRESH_BEARER:2,
+}
+module.exports = EXPIRATION;
