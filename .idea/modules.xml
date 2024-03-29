@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../adrestus-ransaction-flooding.iml" filepath="$PROJECT_DIR$/../adrestus-ransaction-flooding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../adrestus-transaction-flooding.iml" filepath="$PROJECT_DIR$/../adrestus-transaction-flooding.iml" />
     </modules>
   </component>
 </project>
